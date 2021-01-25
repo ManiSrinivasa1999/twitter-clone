@@ -1,4 +1,3 @@
-# nodeal
 
 ## Project setup
 ```
